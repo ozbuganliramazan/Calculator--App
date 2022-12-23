@@ -1,5 +1,5 @@
-<h1>Hesap Makinasi</h1>
+<h1>Calculator App/h1>
 
-<p>Html,Css,Javascrip</p>
+<p>Calculator Application with HTML CSS Javascript</p>
 
 <img src="hesapmakinasi.gif">
